@@ -22,7 +22,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ### Links
 
 - Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/responsive-recipe-page-using-mobilefirst-workflow-miZjP_Ui2S)
-- Live Site URL: [Live site URL here](https://chamindud.github.io/Recipe-page/)
+- Live Site URL: [Live site URL here](https://chmndu.github.io/Recipe-page/)
 
 ## My process
 
@@ -59,5 +59,5 @@ I'm looking to improve my CSS knowledge to design more unique and new stuff.
 
 ## Author
 
-- Frontend Mentor - [@ChaminduD](https://www.frontendmentor.io/profile/ChaminduD)
+- Frontend Mentor - [@chmndu](https://www.frontendmentor.io/profile/chmndu)
 - LinkedIn - [Chamindu Dahanayaka](https://www.linkedin.com/in/chamindudahanayaka/)
